@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA40apGmirQrBobhueHjEHHPQ5tzFDX4c0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1036709275135</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fingerPrintApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>finger-print-app-9f84a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finger-print-app-9f84a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1036709275135:ios:61b9a7a9569e6c7924b3ca</string>
+</dict>
+</plist>

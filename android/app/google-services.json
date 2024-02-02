@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036709275135",
+    "project_id": "finger-print-app-9f84a",
+    "storage_bucket": "finger-print-app-9f84a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036709275135:android:fa44214c94d81e2424b3ca",
+        "android_client_info": {
+          "package_name": "com.example.finger_print_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSte0IM60WKydsTj_X4qCVB5ch6WZz-OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
